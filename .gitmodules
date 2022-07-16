@@ -1,0 +1,4 @@
+[submodule "configurations"]
+	path = configurations
+	url = https://github.com/d3athwarrior/home_lab_configurations.git
+	branch = main
